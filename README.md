@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Sou Nycolle, estudante de Ciência da Computação pela UNIPÊ.<br>Este GitHub tem como objetivo compartilhar meus projetos, evidenciar minha evolução na programação e documentar minha trajetória na área de tecnologia.<br>🚀 Comprometida com o aprendizado contínuo e o desenvolvimento de soluções eficientes.</h5>
+<h5 align="left">Me chamo Nycolle, estudante de Ciência da Computação pela UNIPÊ.<br>Este GitHub tem como objetivo compartilhar meus projetos, evidenciar minha evolução na programação e documentar minha trajetória na área de tecnologia.<br>🚀 Comprometida com o aprendizado contínuo e o desenvolvimento de soluções eficientes.</h5>
 
 ###
 
